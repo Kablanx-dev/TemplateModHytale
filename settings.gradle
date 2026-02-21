@@ -1,0 +1,8 @@
+// ╔═══════════════════════════════════════════════════════════════════════════╗
+// ║ SETTINGS.GRADLE - Configuración del nombre del proyecto                  ║
+// ║                                                                           ║
+// ║ Este es el nombre que aparecerá en el archivo .jar generado              ║
+// ║ Cámbialo por el nombre de tu mod                                          ║
+// ╚═══════════════════════════════════════════════════════════════════════════╝
+
+rootProject.name = 'TemplateModHytale'

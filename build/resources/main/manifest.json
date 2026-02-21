@@ -1,0 +1,16 @@
+{
+    "Group": "me.kablanxdev",
+    "Name": "TemplateModHytale",
+    "Version": "1.0.0",
+    "Description": "Mi primer mod para Hytale - Tutorial basico",
+    "Authors": [
+        {
+            "Name": "kablanxdev"
+        }
+    ],
+    "ServerVersion": "*",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "DisabledByDefault": false,
+    "Main": "me.kablanxdev.TemplateModHytale"
+}
