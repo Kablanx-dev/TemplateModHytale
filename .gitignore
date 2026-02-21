@@ -22,3 +22,33 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+# ============================================
+# .gitignore para mods de Hytale
+# ============================================
+
+# Archivos de compilacion (se generan automaticamente)
+build/
+out/
+.gradle/
+
+# Archivos de IDE (cada uno usa el suyo)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-*
+.project
+.classpath
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# El wrapper jar se descarga automaticamente, no hace falta subirlo
+# (aunque algunos proyectos lo suben, es opcional)
+# gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
